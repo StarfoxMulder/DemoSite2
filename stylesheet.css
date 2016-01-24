@@ -40,3 +40,27 @@ img {
 #archnemesis {
     border: 4px solid #cc0000;
     }
+    
+.menu {
+	height: 100px;
+	width: 100px;
+	border-radius: 5px;
+	border: 2px solid black;
+	background-color: #438072;
+       }
+       
+.allies {
+	height: 100px;
+	width: 1000px;
+	border-radius: 5px;
+	border: 2px solid black;
+	background-color: #45ADA8;
+	}       
+       
+.enemies {
+	height: 100px;
+	width: 1000px;
+	border-radius: 5px;
+	border: 2px solid black;
+	background-color: #851c1c;
+	}
